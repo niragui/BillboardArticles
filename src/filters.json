@@ -1,0 +1,122 @@
+{
+    "articles": {
+        "tag": "div",
+        "attributes": {
+            "class": {
+                "action": "starts_with",
+                "value": "o-card lrv-u-position-relative"
+            }
+        }
+    },
+    "article_url": {
+        "tag": "a",
+        "attributes": {
+            "class": {
+                "action": "starts_with",
+                "value": "c-title__link"
+            }
+        }
+    },
+    "article-topic":{
+        "tag": "div",
+        "attributes": {
+            "class": {
+                "action": "starts_with",
+                "value": "breadcrumbs"
+            }
+        }
+    },
+    "article-date":{
+        "tag": "div",
+        "attributes": {
+            "class": {
+                "action": "starts_with",
+                "value": "article-timestamp"
+            }
+        }
+    },
+    "article-title":{
+        "tag": "h1",
+        "attributes": {
+            "class": {
+                "action": "starts_with",
+                "value": "article-title"
+            }
+        }
+    },
+    "article-subtitle":{
+        "tag": "p",
+        "attributes": {
+            "class": {
+                "action": "starts_with",
+                "value": "article-excerpt"
+            }
+        }
+    },
+    "article-writer":{
+        "tag": "a",
+        "attributes": {
+            "class": {
+                "action": "starts_with",
+                "value": "c-link  a-font-basic"
+            }
+        }
+    },
+    "article-cover":{
+        "tag": "div",
+        "attributes": {
+            "class": {
+                "action": "starts_with",
+                "value": "featured-image"
+            }
+        }
+    },
+    "article-image":{
+        "tag": "img",
+        "attributes": {}
+    },
+    "article-texts":{
+        "tag": "p",
+        "attributes": {
+            "class": {
+                "action": "starts_with",
+                "value": "paragraph larva"
+            }
+        }
+    },
+    "article-texts-headers":{
+        "tag": "h2",
+        "attributes":{
+            "href": {
+                "action": "not_exists"
+            },
+            "id": {
+                "action": "not_exists"
+            },
+            "class":{
+                "action": "not_exists"
+            }
+        }
+    },
+    "article-charts": {
+        "tag": "a",
+        "attributes":{
+            "href": {
+                "action": "starts_with",
+                "value": "https://www.billboard.com/charts/"
+            },
+            "class":{
+                "action": "not_exists"
+            }
+        }
+    },
+    "article-artists": {
+        "tag": "a",
+        "attributes":{
+            "href": {
+                "action": "starts_with",
+                "value": "https://www.billboard.com/artist/"
+            }
+        }
+    }
+}
